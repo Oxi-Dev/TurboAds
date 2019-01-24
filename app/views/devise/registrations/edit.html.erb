@@ -1,0 +1,69 @@
+<div id="page-content" class="container">
+  <div class="row">
+    <div class="col-sm-6 col-sm-offset-1">
+       <h2>Edit <%= resource_name.to_s.humanize %></h2>
+      
+    
+         <%= form_for(resource, as: resource_name, url: registration_path(resource_name), html: { method: :put }, builder: BootstrapFormBuilder) do |form| %>
+          <%= devise_error_messages! %>
+        
+          <%= form.group :name do %>
+            <%= form.label :name %>
+            <%= form.text_field :name %>
+            <%= form.errors :name %>
+          <% end %>
+          
+          <%= form.group :email do %>
+            <%= form.label :email %>
+            <%= form.email_field :email %>
+            <%= form.errors :email %>
+          <% end %>
+          
+          <% if devise_mapping.confirmable? && resource.pending_reconfirmation? %>
+            <div>Currently waiting confirmation for: <%= resource.unconfirmed_email %></div>
+          <% end %>
+          
+          <%= form.group :password do %>
+            <%= form.label :password %> <i>(leave blank if you don't want to change it)</i><br/>
+            <%= form.password_field :password %>
+            <% if @minimum_password_length %>
+              <em><%= @minimum_password_length %> characters minimum</em>
+            <% end %>
+            <%= form.errors :password %>
+          <% end %>
+        
+          <%= form.group :password_confirmation do %>
+            <%= form.label :password_confirmation %>
+            <%= form.password_field :password_confirmation %>
+            <%= form.errors :password_confirmation %>
+          <% end %>
+          
+          <%= form.group :current_password do %>
+            <%= form.label :current_password %> <i>(we need your current password to confirm your changes)</i><br />
+            <%= form.password_field :current_password %>
+            <%= form.errors :current_password %>
+          <% end %>
+  
+                  
+          <div class="form-group actions">
+            <%= form.submit "Update", class: "btn btn-primary" %>
+          </div>
+        <% end %>
+        
+        
+     
+    </div>
+    <div class="col-sm-4 col-sm-offset-1">
+        <h3>Cancel my account</h3>
+        
+        <p>Unhappy? <%= button_to "Cancel my account", registration_path(resource_name), data: { confirm: "Are you sure?" }, method: :delete, class: "btn btn-default" %></p>
+        
+        <%= link_to "Back", :back, class: "btn btn-link" %>
+    </div>    
+  </div><!-- row -->
+</div>
+
+
+
+
+

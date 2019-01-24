@@ -1,0 +1,46 @@
+<div id="page-content" class="container">
+  <div class="row">
+      <div class="col-sm-12">
+        <h1>Get in touch with like-minded people</h1>
+        <h3>Create, study, accomplish goals together</h3>
+      </div>
+     
+    <div class="col-sm-6 col-sm-offset-3">
+       <h3>Sign up <small>it's free!</small></h3> 
+       
+       <%= form_for(resource, as: resource_name, url: registration_path(resource_name), builder: BootstrapFormBuilder) do |form| %>
+          <%= devise_error_messages! %>
+        
+          <%= form.group :email do %>
+            <%= form.label :email %>
+            <%= form.email_field :email %>
+            <%= form.errors :email %>
+          <% end %>
+          
+          <%= form.group :password do %>
+            <%= form.label :password %>
+            <%= form.password_field :password %>
+            <% if @minimum_password_length %>
+              <em><%= @minimum_password_length %> characters minimum</em>
+            <% end %>
+            <%= form.errors :password %>
+          <% end %>
+          
+          <%= form.group :password_confirmation do %>
+            <%= form.label :password_confirmation %>
+            <%= form.password_field :password_confirmation %>
+            <%= form.errors :password_confirmation %>
+          <% end %>
+          
+          
+          <div class="form-group actions">
+            <%= form.submit "Sign up", class: "btn btn-primary" %>
+          </div>
+                  
+          <% end %>
+        
+        <%= render "devise/shared/links" %><br/><br/>
+        
+    </div>
+  </div>
+</div>        
