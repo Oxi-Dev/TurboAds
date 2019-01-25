@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class CreatePrivateConversations < ActiveRecord::Migration[5.1]
   def change
     create_table :private_conversations do |t|
@@ -8,6 +10,6 @@ class CreatePrivateConversations < ActiveRecord::Migration[5.1]
     end
     add_index :private_conversations, :recipient_id
     add_index :private_conversations, :sender_id
-    add_index :private_conversations, [:recipient_id, :sender_id], unique: true
+    add_index :private_conversations, %i[recipient_id sender_id], unique: true
   end
 end

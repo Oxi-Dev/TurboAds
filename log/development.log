@@ -18869,3 +18869,578 @@ Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrad
 Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
 Private::ConversationChannel is transmitting the subscription confirmation
 Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:12:20 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:12:20 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:12:20 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:13:02 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:13:03 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:13:03 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:16:03 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:16:03 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:16:03 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:17:51 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:17:52 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:17:52 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:18:58 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:18:58 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:18:58 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:19:52 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:19:53 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:19:53 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:20:53 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:20:53 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:20:53 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:21:14 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:21:15 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:21:15 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:21:51 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:21:51 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:21:51 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:28:06 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:28:07 +0000
+  [1m[35m (0.8ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  ↳ /usr/lib/ruby/vendor_ruby/phusion_passenger/rack/thread_handler_extension.rb:97
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:28:07 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:28:25 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:28:25 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:28:25 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:29:01 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:29:02 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:29:02 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:29:26 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:29:26 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:29:26 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:30:08 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:30:09 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:30:09 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:30:57 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:30:57 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:30:57 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:31:18 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:31:19 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:31:19 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:31:27 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:31:28 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:31:28 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:32:01 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:32:01 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:32:01 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:32:25 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:32:26 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:32:26 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:33:14 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:33:14 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:33:14 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:33:26 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:33:27 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:33:27 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:12
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:34:42 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:34:42 +0000
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+  ↳ /usr/lib/ruby/vendor_ruby/phusion_passenger/rack/thread_handler_extension.rb:97
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:34:42 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:14
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11
+Started GET "/cable" for 86.124.84.95 at 2019-01-25 17:34:51 +0000
+Started GET "/cable/" [WebSocket] for 86.124.84.95 at 2019-01-25 17:34:51 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:14
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8y)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_2
+Started GET "/cable" for 86.124.84.95 at 2019-01-25 17:34:53 +0000
+Started GET "/cable/" [WebSocket] for 86.124.84.95 at 2019-01-25 17:34:53 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 4 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:14
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci80)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_4
+Finished "/cable/" [WebSocket] for 86.124.84.95 at 2019-01-25 17:34:56 +0000
+Private::ConversationChannel stopped streaming from private_conversations_2
+Started GET "/" for 86.124.84.95 at 2019-01-25 17:34:56 +0000
+  [1m[35m (0.2ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  ↳ /usr/lib/ruby/vendor_ruby/phusion_passenger/rack/thread_handler_extension.rb:97
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+  ↳ /usr/lib/ruby/vendor_ruby/phusion_passenger/rack/thread_handler_extension.rb:97
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/controllers/application_controller.rb:15
+  [1m[36mPrivate::Conversation Load (0.2ms)[0m  [1m[34mSELECT  `private_conversations`.* FROM `private_conversations` WHERE `private_conversations`.`id` = 3 LIMIT 1[0m
+  ↳ app/controllers/application_controller.rb:19
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 4[0m
+  ↳ app/controllers/application_controller.rb:19
+  [1m[36mPrivate::Message Load (0.3ms)[0m  [1m[34mSELECT `private_messages`.* FROM `private_messages` WHERE `private_messages`.`conversation_id` = 3[0m
+  ↳ app/controllers/application_controller.rb:19
+  [1m[36mPrivate::Conversation Load (0.4ms)[0m  [1m[34mSELECT `private_conversations`.* FROM `private_conversations` WHERE (`private_conversations`.`recipient_id` = 2 OR `private_conversations`.`sender_id` = 2)[0m
+  ↳ app/services/order_conversations_service.rb:12
+  [1m[36mPrivate::Message Load (0.4ms)[0m  [1m[34mSELECT `private_messages`.* FROM `private_messages` WHERE `private_messages`.`conversation_id` IN (1, 2, 3, 26)[0m
+  ↳ app/services/order_conversations_service.rb:12
+  Rendering pages/index.html.erb within layouts/application
+  Rendered posts/_modal.html.erb (0.2ms)
+  Rendered pages/index/side_menu/_no_login_required_links.html.erb (0.6ms)
+  Rendered pages/index/_side_menu.html.erb (1.2ms)
+  [1m[36mPost Load (0.5ms)[0m  [1m[34mSELECT  `posts`.* FROM `posts` INNER JOIN `categories` ON `categories`.`id` = `posts`.`category_id` WHERE `categories`.`branch` = 'hobby' ORDER BY `posts`.`created_at` DESC LIMIT 8[0m
+  ↳ app/views/pages/index/_main_content.html.erb:4
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` IN (1, 2, 4, 7, 6)[0m
+  ↳ app/views/pages/index/_main_content.html.erb:4
+  Rendered posts/post/_home_page.html.erb (0.5ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered collection of posts/_post.html.erb [8 times] (4.5ms)
+  Rendered shared/_empty_partial.html.erb (0.2ms)
+  [1m[36mPost Load (0.7ms)[0m  [1m[34mSELECT  `posts`.* FROM `posts` INNER JOIN `categories` ON `categories`.`id` = `posts`.`category_id` WHERE `categories`.`branch` = 'study' ORDER BY `posts`.`created_at` DESC LIMIT 8[0m
+  ↳ app/views/pages/index/_main_content.html.erb:10
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` IN (2, 1, 4, 3)[0m
+  ↳ app/views/pages/index/_main_content.html.erb:10
+  Rendered posts/post/_home_page.html.erb (0.2ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered collection of posts/_post.html.erb [8 times] (3.8ms)
+  Rendered shared/_empty_partial.html.erb (0.0ms)
+  [1m[36mPost Load (0.6ms)[0m  [1m[34mSELECT  `posts`.* FROM `posts` INNER JOIN `categories` ON `categories`.`id` = `posts`.`category_id` WHERE `categories`.`branch` = 'team' ORDER BY `posts`.`created_at` DESC LIMIT 8[0m
+  ↳ app/views/pages/index/_main_content.html.erb:16
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` IN (3, 4, 8, 1, 5, 2)[0m
+  ↳ app/views/pages/index/_main_content.html.erb:16
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered collection of posts/_post.html.erb [8 times] (3.7ms)
+  Rendered shared/_empty_partial.html.erb (0.0ms)
+  Rendered pages/index/_main_content.html.erb (29.7ms)
+  Rendered pages/index.html.erb within layouts/application (32.8ms)
+  Rendered layouts/navigation/header/_toggle_button.html.erb (0.2ms)
+  Rendered layouts/navigation/header/_home_button.html.erb (0.3ms)
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 4 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  Rendered layouts/navigation/header/dropdowns/conversations/_private.html.erb (2.4ms)
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  Rendered layouts/navigation/header/dropdowns/conversations/_private.html.erb (1.9ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 7 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  Rendered layouts/navigation/header/dropdowns/conversations/_private.html.erb (0.8ms)
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 LIMIT 1[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/private/conversation.rb:19
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  Rendered layouts/navigation/header/dropdowns/conversations/_private.html.erb (1.2ms)
+  Rendered layouts/navigation/header/dropdowns/_conversations.html.erb (8.3ms)
+  Rendered layouts/navigation/header/_dropdowns.html.erb (8.9ms)
+  Rendered layouts/navigation/_header.html.erb (10.8ms)
+  Rendered layouts/navigation/collapsible_elements/_signed_in_links.html.erb (0.4ms)
+  Rendered layouts/navigation/_collapsible_elements.html.erb (1.1ms)
+  Rendered layouts/_navigation.html.erb (12.9ms)
+  Rendered private/conversations/conversation/_heading.html.erb (0.3ms)
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM `private_messages` WHERE `private_messages`.`conversation_id` = 3[0m
+  ↳ app/helpers/private/conversations_helper.rb:13
+  Rendered private/conversations/conversation/messages_list/_link_to_previous_messages.html.erb (0.7ms)
+  Rendered private/conversations/conversation/_messages_list.html.erb (2.5ms)
+  Rendered private/conversations/conversation/_new_message_form.html.erb (0.2ms)
+  Rendered private/conversations/_conversation.html.erb (4.7ms)
+  Rendered layouts/application/_private_conversations_windows.html.erb (5.3ms)
+Completed 200 OK in 191ms (Views: 140.3ms | ActiveRecord: 10.3ms)
+
+
+Started GET "/cable" for 86.124.84.95 at 2019-01-25 17:34:57 +0000
+Started GET "/cable/" [WebSocket] for 86.124.84.95 at 2019-01-25 17:34:57 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:14
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8y)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_2
+Finished "/cable/" [WebSocket] for 86.124.84.95 at 2019-01-25 17:35:03 +0000
+Private::ConversationChannel stopped streaming from private_conversations_2
+Started GET "/" for 86.124.84.95 at 2019-01-25 17:35:03 +0000
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/controllers/application_controller.rb:15
+  [1m[36mPrivate::Conversation Load (0.5ms)[0m  [1m[34mSELECT  `private_conversations`.* FROM `private_conversations` WHERE `private_conversations`.`id` = 3 LIMIT 1[0m
+  ↳ app/controllers/application_controller.rb:19
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 4[0m
+  ↳ app/controllers/application_controller.rb:19
+  [1m[36mPrivate::Message Load (0.8ms)[0m  [1m[34mSELECT `private_messages`.* FROM `private_messages` WHERE `private_messages`.`conversation_id` = 3[0m
+  ↳ app/controllers/application_controller.rb:19
+  [1m[36mPrivate::Conversation Load (0.7ms)[0m  [1m[34mSELECT `private_conversations`.* FROM `private_conversations` WHERE (`private_conversations`.`recipient_id` = 2 OR `private_conversations`.`sender_id` = 2)[0m
+  ↳ app/services/order_conversations_service.rb:12
+  [1m[36mPrivate::Message Load (0.6ms)[0m  [1m[34mSELECT `private_messages`.* FROM `private_messages` WHERE `private_messages`.`conversation_id` IN (1, 2, 3, 26)[0m
+  ↳ app/services/order_conversations_service.rb:12
+  Rendering pages/index.html.erb within layouts/application
+  Rendered posts/_modal.html.erb (0.3ms)
+  Rendered pages/index/side_menu/_no_login_required_links.html.erb (0.8ms)
+  Rendered pages/index/_side_menu.html.erb (1.7ms)
+  [1m[36mPost Load (0.7ms)[0m  [1m[34mSELECT  `posts`.* FROM `posts` INNER JOIN `categories` ON `categories`.`id` = `posts`.`category_id` WHERE `categories`.`branch` = 'hobby' ORDER BY `posts`.`created_at` DESC LIMIT 8[0m
+  ↳ app/views/pages/index/_main_content.html.erb:4
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` IN (1, 2, 4, 7, 6)[0m
+  ↳ app/views/pages/index/_main_content.html.erb:4
+  Rendered posts/post/_home_page.html.erb (0.6ms)
+  Rendered posts/post/_home_page.html.erb (0.2ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered collection of posts/_post.html.erb [8 times] (5.7ms)
+  Rendered shared/_empty_partial.html.erb (0.3ms)
+  [1m[36mPost Load (0.7ms)[0m  [1m[34mSELECT  `posts`.* FROM `posts` INNER JOIN `categories` ON `categories`.`id` = `posts`.`category_id` WHERE `categories`.`branch` = 'study' ORDER BY `posts`.`created_at` DESC LIMIT 8[0m
+  ↳ app/views/pages/index/_main_content.html.erb:10
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` IN (2, 1, 4, 3)[0m
+  ↳ app/views/pages/index/_main_content.html.erb:10
+  Rendered posts/post/_home_page.html.erb (0.2ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.3ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered collection of posts/_post.html.erb [8 times] (4.5ms)
+  Rendered shared/_empty_partial.html.erb (0.0ms)
+  [1m[36mPost Load (0.5ms)[0m  [1m[34mSELECT  `posts`.* FROM `posts` INNER JOIN `categories` ON `categories`.`id` = `posts`.`category_id` WHERE `categories`.`branch` = 'team' ORDER BY `posts`.`created_at` DESC LIMIT 8[0m
+  ↳ app/views/pages/index/_main_content.html.erb:16
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` IN (3, 4, 8, 1, 5, 2)[0m
+  ↳ app/views/pages/index/_main_content.html.erb:16
+  Rendered posts/post/_home_page.html.erb (0.4ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered collection of posts/_post.html.erb [8 times] (5.1ms)
+  Rendered shared/_empty_partial.html.erb (0.0ms)
+  Rendered pages/index/_main_content.html.erb (28.1ms)
+  Rendered pages/index.html.erb within layouts/application (32.5ms)
+  Rendered layouts/navigation/header/_toggle_button.html.erb (0.2ms)
+  Rendered layouts/navigation/header/_home_button.html.erb (0.3ms)
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 4 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  Rendered layouts/navigation/header/dropdowns/conversations/_private.html.erb (1.8ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  Rendered layouts/navigation/header/dropdowns/conversations/_private.html.erb (1.7ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 7 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  Rendered layouts/navigation/header/dropdowns/conversations/_private.html.erb (1.1ms)
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 LIMIT 1[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/private/conversation.rb:19
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  Rendered layouts/navigation/header/dropdowns/conversations/_private.html.erb (13.5ms)
+  Rendered layouts/navigation/header/dropdowns/_conversations.html.erb (20.9ms)
+  Rendered layouts/navigation/header/_dropdowns.html.erb (21.5ms)
+  Rendered layouts/navigation/_header.html.erb (23.9ms)
+  Rendered layouts/navigation/collapsible_elements/_signed_in_links.html.erb (0.5ms)
+  Rendered layouts/navigation/_collapsible_elements.html.erb (1.2ms)
+  Rendered layouts/_navigation.html.erb (26.8ms)
+  Rendered private/conversations/conversation/_heading.html.erb (0.5ms)
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM `private_messages` WHERE `private_messages`.`conversation_id` = 3[0m
+  ↳ app/helpers/private/conversations_helper.rb:13
+  Rendered private/conversations/conversation/messages_list/_link_to_previous_messages.html.erb (0.7ms)
+  Rendered private/conversations/conversation/_messages_list.html.erb (2.5ms)
+  Rendered private/conversations/conversation/_new_message_form.html.erb (0.3ms)
+  Rendered private/conversations/_conversation.html.erb (5.3ms)
+  Rendered layouts/application/_private_conversations_windows.html.erb (6.0ms)
+Completed 200 OK in 136ms (Views: 106.5ms | ActiveRecord: 7.9ms)
+
+
+Started GET "/cable" for 86.124.84.95 at 2019-01-25 17:35:04 +0000
+Started GET "/cable/" [WebSocket] for 86.124.84.95 at 2019-01-25 17:35:04 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:14
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8y)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_2
+Finished "/cable/" [WebSocket] for 86.124.84.95 at 2019-01-25 17:35:06 +0000
+Private::ConversationChannel stopped streaming from private_conversations_2
+Started GET "/" for 86.124.84.95 at 2019-01-25 17:35:06 +0000
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/controllers/application_controller.rb:15
+  [1m[36mPrivate::Conversation Load (0.6ms)[0m  [1m[34mSELECT  `private_conversations`.* FROM `private_conversations` WHERE `private_conversations`.`id` = 3 LIMIT 1[0m
+  ↳ app/controllers/application_controller.rb:19
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 4[0m
+  ↳ app/controllers/application_controller.rb:19
+  [1m[36mPrivate::Message Load (0.8ms)[0m  [1m[34mSELECT `private_messages`.* FROM `private_messages` WHERE `private_messages`.`conversation_id` = 3[0m
+  ↳ app/controllers/application_controller.rb:19
+  [1m[36mPrivate::Conversation Load (0.7ms)[0m  [1m[34mSELECT `private_conversations`.* FROM `private_conversations` WHERE (`private_conversations`.`recipient_id` = 2 OR `private_conversations`.`sender_id` = 2)[0m
+  ↳ app/services/order_conversations_service.rb:12
+  [1m[36mPrivate::Message Load (0.9ms)[0m  [1m[34mSELECT `private_messages`.* FROM `private_messages` WHERE `private_messages`.`conversation_id` IN (1, 2, 3, 26)[0m
+  ↳ app/services/order_conversations_service.rb:12
+  Rendering pages/index.html.erb within layouts/application
+  Rendered posts/_modal.html.erb (0.3ms)
+  Rendered pages/index/side_menu/_no_login_required_links.html.erb (0.7ms)
+  Rendered pages/index/_side_menu.html.erb (1.9ms)
+  [1m[36mPost Load (0.9ms)[0m  [1m[34mSELECT  `posts`.* FROM `posts` INNER JOIN `categories` ON `categories`.`id` = `posts`.`category_id` WHERE `categories`.`branch` = 'hobby' ORDER BY `posts`.`created_at` DESC LIMIT 8[0m
+  ↳ app/views/pages/index/_main_content.html.erb:4
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` IN (1, 2, 4, 7, 6)[0m
+  ↳ app/views/pages/index/_main_content.html.erb:4
+  Rendered posts/post/_home_page.html.erb (0.5ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.2ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered collection of posts/_post.html.erb [8 times] (5.5ms)
+  Rendered shared/_empty_partial.html.erb (0.2ms)
+  [1m[36mPost Load (0.6ms)[0m  [1m[34mSELECT  `posts`.* FROM `posts` INNER JOIN `categories` ON `categories`.`id` = `posts`.`category_id` WHERE `categories`.`branch` = 'study' ORDER BY `posts`.`created_at` DESC LIMIT 8[0m
+  ↳ app/views/pages/index/_main_content.html.erb:10
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` IN (2, 1, 4, 3)[0m
+  ↳ app/views/pages/index/_main_content.html.erb:10
+  Rendered posts/post/_home_page.html.erb (0.2ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.2ms)
+  Rendered collection of posts/_post.html.erb [8 times] (4.4ms)
+  Rendered shared/_empty_partial.html.erb (0.0ms)
+  [1m[36mPost Load (0.5ms)[0m  [1m[34mSELECT  `posts`.* FROM `posts` INNER JOIN `categories` ON `categories`.`id` = `posts`.`category_id` WHERE `categories`.`branch` = 'team' ORDER BY `posts`.`created_at` DESC LIMIT 8[0m
+  ↳ app/views/pages/index/_main_content.html.erb:16
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` IN (3, 4, 8, 1, 5, 2)[0m
+  ↳ app/views/pages/index/_main_content.html.erb:16
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered posts/post/_home_page.html.erb (0.1ms)
+  Rendered collection of posts/_post.html.erb [8 times] (4.0ms)
+  Rendered shared/_empty_partial.html.erb (0.0ms)
+  Rendered pages/index/_main_content.html.erb (25.5ms)
+  Rendered pages/index.html.erb within layouts/application (30.1ms)
+  Rendered layouts/navigation/header/_toggle_button.html.erb (0.2ms)
+  Rendered layouts/navigation/header/_home_button.html.erb (0.3ms)
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 4 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  Rendered layouts/navigation/header/dropdowns/conversations/_private.html.erb (1.4ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  Rendered layouts/navigation/header/dropdowns/conversations/_private.html.erb (1.5ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 7 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  Rendered layouts/navigation/header/dropdowns/conversations/_private.html.erb (0.8ms)
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 LIMIT 1[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/private/conversation.rb:19
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  ↳ app/models/private/conversation.rb:19
+  Rendered layouts/navigation/header/dropdowns/conversations/_private.html.erb (1.3ms)
+  Rendered layouts/navigation/header/dropdowns/_conversations.html.erb (7.0ms)
+  Rendered layouts/navigation/header/_dropdowns.html.erb (7.6ms)
+  Rendered layouts/navigation/_header.html.erb (9.5ms)
+  Rendered layouts/navigation/collapsible_elements/_signed_in_links.html.erb (0.4ms)
+  Rendered layouts/navigation/_collapsible_elements.html.erb (1.1ms)
+  Rendered layouts/_navigation.html.erb (11.6ms)
+  Rendered private/conversations/conversation/_heading.html.erb (0.3ms)
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM `private_messages` WHERE `private_messages`.`conversation_id` = 3[0m
+  ↳ app/helpers/private/conversations_helper.rb:13
+  Rendered private/conversations/conversation/messages_list/_link_to_previous_messages.html.erb (0.6ms)
+  Rendered private/conversations/conversation/_messages_list.html.erb (2.2ms)
+  Rendered private/conversations/conversation/_new_message_form.html.erb (0.3ms)
+  Rendered private/conversations/_conversation.html.erb (4.4ms)
+  Rendered layouts/application/_private_conversations_windows.html.erb (5.1ms)
+Completed 200 OK in 101ms (Views: 71.9ms | ActiveRecord: 8.3ms)
+
+
+Started GET "/cable" for 86.124.84.95 at 2019-01-25 17:35:07 +0000
+Started GET "/cable/" [WebSocket] for 86.124.84.95 at 2019-01-25 17:35:07 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:14
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8y)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_2
+Finished "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:35:30 +0000
+Private::ConversationChannel stopped streaming from private_conversations_11
+Started GET "/cable" for 5.15.124.149 at 2019-01-25 17:35:31 +0000
+Started GET "/cable/" [WebSocket] for 5.15.124.149 at 2019-01-25 17:35:31 +0000
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: upgrade, HTTP_UPGRADE: websocket)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 11 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  ↳ app/channels/application_cable/connection.rb:14
+Registered connection (Z2lkOi8vdHVyYm9hZHMvVXNlci8xMQ)
+Private::ConversationChannel is transmitting the subscription confirmation
+Private::ConversationChannel is streaming from private_conversations_11

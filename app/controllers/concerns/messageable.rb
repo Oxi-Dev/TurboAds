@@ -1,17 +1,18 @@
+# frozen_string_literal: true
+
 require 'active_support/concern'
 
 module Messageable
-    
   extend ActiveSupport::Concern
-     
+
   def get_messages(conversation_type, messages_amount)
     # convert a string into a constant, so the models can be called dynamically
     model = "#{conversation_type.capitalize}::Conversation".constantize
     @conversation = model.find(params[:conversation_id])
     # get previous messages of the conversation
     @messages = @conversation.messages.order(created_at: :desc)
-                                      .limit(messages_amount)
-                                      .offset(params[:messages_to_display_offset].to_i)
+                             .limit(messages_amount)
+                             .offset(params[:messages_to_display_offset].to_i)
     # set a variable to get another previous messages of the conversation
     @messages_to_display_offset = params[:messages_to_display_offset].to_i + messages_amount
 
@@ -22,7 +23,4 @@ module Messageable
       @messages_to_display_offset = 0
     end
   end
-
-  
-  
 end

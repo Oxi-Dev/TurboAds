@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class PostsForBranchService
   def initialize(params)
     @search = params[:search]
@@ -15,8 +17,6 @@ class PostsForBranchService
       posts = Post.by_category(@branch, @category)
     elsif @category.present? && @search.present?
       posts = Post.by_category(@branch, @category).search(@search)
-    else
     end
   end
-
 end

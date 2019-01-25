@@ -1,5 +1,6 @@
+# frozen_string_literal: true
+
 class Private::MessagesController < ActionController::Base
-  
   include Messageable
 
   def index
@@ -10,6 +11,4 @@ class Private::MessagesController < ActionController::Base
       format.js { render partial: 'private/messages/load_more_messages' }
     end
   end
-         
-   
 end

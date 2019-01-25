@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 context 'Methods' do
   it 'gets a previous message' do
     conversation = create(:private_conversation)

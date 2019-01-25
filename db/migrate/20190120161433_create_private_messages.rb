@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class CreatePrivateMessages < ActiveRecord::Migration[5.1]
   def change
     create_table :private_messages do |t|
@@ -5,7 +7,7 @@ class CreatePrivateMessages < ActiveRecord::Migration[5.1]
       t.references :user, foreign_key: true
       t.belongs_to :conversation, index: true
       t.boolean :seen, default: false
-      
+
       t.timestamps
     end
   end
