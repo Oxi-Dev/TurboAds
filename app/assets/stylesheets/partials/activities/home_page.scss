@@ -1,0 +1,54 @@
+.single-timeline-card {
+  box-shadow: 1px 1px 4px rgba(0,0,0, 0.3);
+  color: black;
+  padding: 10px;
+  text-align: left;
+  transition: border 0.1s, background 0.5s;
+  .post-text {
+    overflow: hidden;
+  }
+  a, a:active, a:hover {
+    color: black;
+  }
+  &:hover {
+    cursor: pointer;
+    background: white;
+    box-shadow: none;
+    border-radius: 1%;
+  }  
+}
+.single-timeline-card.announcement {
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
+    h4:before {
+       font-family: "FontAwesome";
+       content: "\f0a1";
+       display: inline-block;
+       padding-right: 5px;
+       vertical-align: top;
+       font-weight:400;
+    }
+}
+.single-timeline-card.message {
+    box-shadow: 1px 1px 4px rgba(255, 97, 56, 0.3);
+    h4:before {
+       font-family: "FontAwesome";
+       content: "\f086";
+       display: inline-block;
+       padding-right: 5px;
+       vertical-align: top;
+       font-weight:400;
+       color: #FF6138;
+    }
+}
+.single-timeline-card.connection {
+    box-shadow: 1px 1px 4px rgba(121, 189, 143, 0.3);
+    h4:before {
+       font-family: "FontAwesome";
+       content: "\f234";
+       display: inline-block;
+       padding-right: 5px;
+       vertical-align: top;
+       font-weight:400;
+       color: #79BD8F;
+    }
+}
