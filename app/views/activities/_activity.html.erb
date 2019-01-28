@@ -1,0 +1,14 @@
+<div class="row">
+
+    <div class="col-sm-12 single-timeline-card <%= activity.activity_type %>" >
+      <div class="timeline-card  ">
+        <div class="timeline-card-block">
+          <h4 class="post-text"><%= activity.name %> <small><%= activity.created_at.strftime("%m/%d/%Y at %I:%M%p") %></small></h4>
+          <div class="timeline-post-content">
+            <p><%= activity.description %></p>
+          </div>
+        </div>
+      </div><!-- card -->
+    </div><!-- col-sm-3 -->
+
+</div>

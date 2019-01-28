@@ -35,6 +35,10 @@ Rails.application.routes.draw do
     end
     resources :messages, only: %i[index create]
   end
+  
+  resource :activities do
+      get '/', to: 'activities#index'
+  end    
 
   root to: 'pages#index'
 

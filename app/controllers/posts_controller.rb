@@ -33,6 +33,12 @@ class PostsController < ApplicationController
   def create
     @post = Post.new(post_params)
     if @post.save
+        
+      #track this on activities table   
+      categories = Category.where(id: @post.category_id).first 
+      activity_name = 'New announcement in '+ categories.branch + ' - ' + categories.name 
+      @activity = Activity.create(name: activity_name, description: post_params.require(:title), activity_type: 'announcement')
+      
       redirect_to post_path(@post)
     else
       redirect_to root_path

@@ -9,6 +9,10 @@ class Private::ConversationsController < ApplicationController
       Private::Message.create(user_id: recipient_id,
                               conversation_id: @conversation.id,
                               body: params[:message_body])
+      #track this on activities table    
+      activity_description = 'New connection between '+ current_user.name + ' - ' +  Post.find(params[:post_id]).user.name
+      @activity = Activity.create(name: "New connection", description: activity_description, activity_type: 'connection')
+                          
       respond_to do |format|
         format.js { render partial: 'posts/show/contact_user/message_form/success' }
       end
